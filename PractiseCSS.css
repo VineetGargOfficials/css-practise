@@ -1,22 +1,7 @@
-div {
-    width: 200px;
+div{
+    width: 100px;
     height: 100px;
-    margin: 25px;
-    padding: 25px;
+    border: 2px solid black;
     display: inline-block;
-}
-.div1 {
-    background-color: blue;
-    
-}
-
-.div2{
-    background-color: rgba(200, 0, 0, 1);
-    /* display: none; */
-    /* visibility: hidden; */
-}
-
-.div3 {
     background-color: aqua;
-    
 }
