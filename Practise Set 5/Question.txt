@@ -1,0 +1,8 @@
+Q. Create the following layout using the given html.
+    Give the div a height, width & some backgorund image.
+    Use the appropriate position properly for the div element to place it at the right end of the page. (The div should not move even to scroll)
+
+
+<p>lorem*5</p>
+<div>Love Nature</div>
+<p>lorem*5</p>

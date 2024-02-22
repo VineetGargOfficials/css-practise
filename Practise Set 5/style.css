@@ -1,0 +1,10 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-image: url("sample.jpg");
+    background-size: cover;
+    color: white;
+    text-align: center;
+    position: fixed;
+    right: 0;
+}
